@@ -1,0 +1,6 @@
+inherit xfce4
+
+
+PATCH_URI="3.2-libxfcegui4.patch"
+
+WANT_AUTOMAKE=1.9
