@@ -1,0 +1,4 @@
+inherit xfce4
+
+
+PATCH_URI="3.3.0-libxfcegui4.patch"
