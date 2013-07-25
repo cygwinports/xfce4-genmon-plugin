@@ -1,0 +1,11 @@
+inherit xfce4
+
+NAME="xfce4-genmon-plugin"
+VERSION=3.4.0
+RELEASE=1
+CATEGORY="Xfce"
+SUMMARY="Xfce4 GenMon panel plugin"
+DESCRIPTION="The GenMon plugin cyclically spawns the indicated script/program,
+captures its output and displays the result into the panel."
+
+SRC_DIR="${NAME}-${VERSION%.0}"
